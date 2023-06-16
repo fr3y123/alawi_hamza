@@ -1,0 +1,21 @@
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\bin\Debug\net7.0-windows\zoo information hub.exe
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\bin\Debug\net7.0-windows\zoo information hub.deps.json
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\bin\Debug\net7.0-windows\zoo information hub.runtimeconfig.json
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\bin\Debug\net7.0-windows\zoo information hub.dll
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\bin\Debug\net7.0-windows\zoo information hub.pdb
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.csproj.AssemblyReference.cache
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.csproj.GenerateResource.cache
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.AssemblyInfoInputs.cache
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.AssemblyInfo.cs
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.csproj.CoreCompileInputs.cache
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.dll
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\refint\zoo information hub.dll
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.pdb
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.genruntimeconfig.cache
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\ref\zoo information hub.dll
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo_information_hub.Properties.Resources.resources
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo information hub.csproj.ResolveComReference.cache
+C:\Users\fr3y1\source\repos\zoo information hub\zoo information hub\obj\Debug\net7.0-windows\zoo_information_hub.Form1.resources
